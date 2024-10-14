@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://google.com">MrWalax</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://yt3.googleusercontent.com/PHGc4hAvRq0zFZtvcrUEjSTzBylkmscH6l11WReoQX_33RvcKsI5VmAF5mkLHKlwyPAb05L9AQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)">
 
 
 
