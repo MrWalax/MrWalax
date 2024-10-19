@@ -1,16 +1,16 @@
 <div align="center">
 
 # 💫 About Me
-👋 ¡Hola! Soy un joven programador apasionado por la tecnología y el desarrollo de soluciones innovadoras. Actualmente, me estoy adentrando en el mundo de la programación y trabajo en la integración de HL7 en servicios hospitalarios.
+<span style="color:blue;">👋 ¡Hola! Soy un joven programador apasionado por la tecnología y el desarrollo de soluciones innovadoras. Actualmente, me estoy adentrando en el mundo de la programación y trabajo en la integración de HL7 en servicios hospitalarios.</span>
 
-💻 Me encanta aprender sobre nuevas herramientas y lenguajes, y siempre estoy buscando proyectos desafiantes que me permitan crecer como profesional. Creo firmemente en el poder de la colaboración y el trabajo en equipo, y disfruto compartiendo conocimientos con otros.
+<span style="color:green;">💻 Me encanta aprender sobre nuevas herramientas y lenguajes, y siempre estoy buscando proyectos desafiantes que me permitan crecer como profesional. Creo firmemente en el poder de la colaboración y el trabajo en equipo, y disfruto compartiendo conocimientos con otros.</span>
 
-Actualmente me encuentro estudiando en el **Centro Integral de Formación Profesional a Distancia "La Conservera"** - Región de Murcia, cursando el curso de **Formación Profesional de Grado Superior: técnico superior en Desarrollo de Aplicaciones Web** y trabajando para **INYCOM**.
+<span style="color:red;">Actualmente me encuentro estudiando en el <strong>Centro Integral de Formación Profesional a Distancia "La Conservera"</strong> - Región de Murcia, cursando el curso de <strong>Formación Profesional de Grado Superior: técnico superior en Desarrollo de Aplicaciones Web</strong> y trabajando para <strong>INYCOM</strong>.</span>
 
 ### Asignaturas que estoy cursando:
 <table align="center">
   <tr>
-    <td>Primer Curso</td>
+    <th>Primer Curso</th>
   </tr>
   <tr>
     <td>Programación</td>
@@ -31,8 +31,10 @@ Actualmente me encuentro estudiando en el **Centro Integral de Formación Profes
     <td>Digitalización</td>
   </tr>
 </table>
+
 <br>
-🌟 Estoy aquí para conectar con otros desarrolladores, contribuir a proyectos interesantes y seguir mejorando mis habilidades. ¡No dudes en contactarme!
+<span style="color:purple;">🌟 Estoy aquí para conectar con otros desarrolladores, contribuir a proyectos interesantes y seguir mejorando mis habilidades. ¡No dudes en contactarme!</span>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZpuXDrA3) 
