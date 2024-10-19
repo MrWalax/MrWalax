@@ -8,12 +8,12 @@
 Actualmente me encuentro estudiando en el Centro Integral de Formación Profesional a Distancia "La Conservera" - Región de Murcia cursando el curso de Formación Profesional de Grado Superior : técnico superior en Desarrollo de Aplicaciones Web y trabajando para INYCOM.
 <br><br>
 Actualmente las asignaturas que estoy cursando son:
-Programacion
-Bases de datos
-Entornos de desarrollo
-Sistemas informaticos
-Lenguaje de marcas
-Digitalizacion
+- Programacion
+- Bases de datos
+- Entornos de desarrollo
+- Sistemas informaticos
+- Lenguaje de marcas
+- Digitalizacion
 <br><br>
 🌟 Estoy aquí para conectar con otros desarrolladores, contribuir a proyectos interesantes y seguir mejorando mis habilidades. ¡No dudes en contactarme!
 
