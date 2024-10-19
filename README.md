@@ -33,22 +33,6 @@ Actualmente me encuentro estudiando en el Centro Integral de Formación Profesio
 🌟 Estoy aquí para conectar con otros desarrolladores, contribuir a proyectos interesantes y seguir mejorando mis habilidades. ¡No dudes en contactarme!
 
 ## 🌐 Socials:
-<table align="center">
-  <tr>
-    <td>[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZpuXDrA3)</td>
-    <td>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mrwalax/)</td>
-    <td>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-moreno-lozano-69301519a/)</td>
-    <td>[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://github.com/MrWalax)</td>
-    <td>[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@mrwalax)</td>
-  </tr>
-  <tr>
-    <td>[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/mrwalax/about)</td>
-    <td>[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/WalaxYT)</td>
-    <td>[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MrWalaxTech)</td>
-  </tr>
-</table>
-
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZpuXDrA3) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mrwalax/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-moreno-lozano-69301519a/) 
