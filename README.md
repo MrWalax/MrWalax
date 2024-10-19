@@ -11,6 +11,9 @@ Actualmente me encuentro estudiando en el Centro Integral de Formación Profesio
 ### Asignaturas que estoy cursando:
 <table align="center">
   <tr>
+    <td>Primer Curso</td>
+  </tr>
+  <tr>
     <td>Programación</td>
   </tr>
   <tr>
